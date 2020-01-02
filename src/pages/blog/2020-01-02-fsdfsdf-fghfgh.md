@@ -1,0 +1,18 @@
+---
+templateKey: blog-post
+title: fsdfsdf fghfgh
+date: 2020-01-01T21:20:24.281Z
+description: sdfsdfsdfsdf
+featuredpost: true
+featuredimage: /img/apple-touch-icon.png
+tags:
+  - sdf
+  - fdsgdf
+---
+sdfsdf
+
+![](/img/blog-index.jpg)
+
+```
+sdfsdf
+```
